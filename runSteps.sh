@@ -1,0 +1,1 @@
+/Users/pl465j/protoc-3.17.3-osx-x86_64/bin/protoc --python_out . employee.proto
